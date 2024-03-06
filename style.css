@@ -1,0 +1,66 @@
+#table{border: solid white 1px;
+    margin: auto;
+    padding: 14px, 12px;
+    width: 50%;
+    margin: auto;
+  }
+#Button{
+    float: left;
+     }
+#nav{
+      text-align: center;
+      text-decoration: none;
+      font-size: 17px;
+      display: flex;
+      justify-content: space-between;
+    }
+#caption1{
+        list-style-type: none;
+      margin: 0;
+      padding: 16px;
+      display :flex;
+      justify-content: space-between;
+    }
+#caption2{  list-style-type: none;
+      margin: 0;
+      padding: 16px;
+      display :flex;
+      gap: 14px;
+    }
+.picture{display: flex;
+      margin-left:500px;
+    }
+    
+.picture1{
+  margin-right: 60px;
+  display: flex;
+  float: left;
+  gap: 20%;
+  width: 70%;
+  height: 250;
+  
+
+}
+#display{
+  display: flex;
+  justify-content: space-between;
+  gap: 4px;
+  justify-content: center;
+  margin: 2%;
+
+
+}
+#text{
+  margin: right;
+}
+#sign{
+  display: flex;
+  justify-content: space-between;
+  float: right;
+  gap: 15%;
+}
+
+.name{
+  text-decoration: none;
+  color: black;
+}
